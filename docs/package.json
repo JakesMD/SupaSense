@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docsify-mermaid": "^2.0.1"
+  }
+}
