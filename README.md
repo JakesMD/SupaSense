@@ -18,3 +18,6 @@ flowchart LR;
     A -- CSV export --> E[[Excel]];
     F((You)) -- manual settings --> A;
 ```
+
+## Docs
+[Go to the docs -->](https://jakesmd.github.io/SupaSense/#/)
